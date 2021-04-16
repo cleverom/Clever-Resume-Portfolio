@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Clever Eziogor",
+    "occupation": "Software Engineer",
+    "description": "I eat, sleep and breathe Code",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Clever! Talented Software Engineer adept at working with customers, team members and project leaders to accomplish software engineering and updating tasks according to timelines. Solid understanding of full software development lifecycle. Skilled working with wide range of front- and back-end technologies to produce and evaluate code. Proud team player focused on achieving project objectives with speed and accuracy..",
+    "contactmessage": "Get in touch with me!",
+    "email": "cleveromo@gmail.com",
+    "phone": "+234 8103612164",
+    "address": {
+      "street": "10b, Akinwunmi street",
+      "city": "Nigeria",
+      "state": "Lagos",
+      "zip": "DEV WEB"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://docs.google.com/document/d/1F82ixV7eI1wsUA9MYWZSJOvAI3qslrLeC-aNhO0R08o/edit?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCcQMGDGqTyh5yYlbyQ4K3Jg",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/clever.eziogor/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/eziogor-clever-aa44ab101/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/clever_omo/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/cleverom",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Federal University Of Petroleum Resources Effurun",
+        "degree": "Bachelor's Degree, Industrial Chemistry",
+        "graduated": "November 2016",
+        "description": "Graduated with second Class upper Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "TECKLINK CORPORATIONS",
+        "title": "Software Engineer",
+        "years": "March 2021 - Present",
+        "description": "A member of the frontend  team developing web solutions for TeckLink.. Built reusable react components and styled with Bootstrap and materialUI.. Managed state and HTTP requests with Redux.. Exposure to Agile methodologies.. Exposure to working in remote conditions.. Integrate data from various back-end services and databases.. Cooperate with web designers to match visual design intent Gather and refine specifications and requirements based on technical needs."
+      },
+      {
+        "company": "DECAGON",
+        "title": "Software Engineer",
+        "years": "October 2020 - Present",
+        "description": "A member of a  team that developed an Agro-ecommerce platform.. Built projects with Nodejs, React.js, typescript, GraphQL, and Javascript.. Handled Database Management System with SQL like MySQL, Postgres, or NoSQL databases like MongoDB.. Experience writing unit and integration test using Jest, SuperTest, cypress etc.. Performed software testing to uncover bugs and troubleshoot issues prior to application launch.. I Integrated work tools such as slack/Github, slack, Jira which forms the main part of our agile process.. Introduced agile methodologies and effective development best practices to division to enhance product development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "CI/CD",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Whatsapp Clone (React JS, Firebase, MaterialUI)",
+        "category": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+        "url": "https://whatsapp-clone-4cdb2.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS, Firebase)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Agro ecommerce (NodeJs, MongoDB, Typescript, CSS, HTML, CI/CD)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "Loan Calculator (JavaScript MaterialCSS, HTML)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Clever is absolutely excellent, his depth of knowledge & his ability to communucate really meant a lot to us... I would definitely recommend",
+        "user": "Clever Omo"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning Coding so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Clever Eziogor"
+      }
+    ]
+  }
+}
