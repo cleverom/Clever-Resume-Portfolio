@@ -3,7 +3,7 @@
     "name": "Clever Eziogor",
     "occupation": "Software Engineer",
     "description": "I eat, sleep and breathe Code",
-    "image": "profilepic.jpg",
+    "image": "clever.jpg",
     "bio": "Hi there! I am Clever! Talented Software Engineer adept at working with customers, team members and project leaders to accomplish software engineering and updating tasks according to timelines. Solid understanding of full software development lifecycle. Skilled working with wide range of front- and back-end technologies to produce and evaluate code. Proud team player focused on achieving project objectives with speed and accuracy..",
     "contactmessage": "Get in touch with me!",
     "email": "cleveromo@gmail.com",
@@ -108,25 +108,25 @@
       {
         "title": "Whatsapp Clone (React JS, Firebase, MaterialUI)",
         "category": "",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+        "image": "watsapp.png",
         "url": "https://whatsapp-clone-4cdb2.web.app/"
       },
       {
-        "title": "Netflix Clone (React JS, Firebase)",
+        "title": "Decagon Clone (HTML, CSS(Flexbox))",
         "category": "",
-        "image": "gmail.jpg",
+        "image": "deca.png",
         "url": "https://youtu.be/b7nrXjS6Dqs"
       },
       {
         "title": "Agro ecommerce (NodeJs, MongoDB, Typescript, CSS, HTML, CI/CD)",
         "category": "",
-        "image": "linkedin.jpg",
+        "image": "agro.png",
         "url": "https://youtu.be/QaYts9sPmcY"
       },
       {
         "title": "Loan Calculator (JavaScript MaterialCSS, HTML)",
         "category": "",
-        "image": "linkedin.jpg",
+        "image": "loan.png",
         "url": "https://youtu.be/QaYts9sPmcY"
       }
     ]
@@ -134,12 +134,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Clever is absolutely excellent, his depth of knowledge & his ability to communucate really meant a lot to us... I would definitely recommend",
-        "user": "Clever Omo"
+        "text": "Clever is a very focused person, his grit and intelligence makes working with him super awesome.",
+        "user": "Jennifer Ezeobi"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning Coding so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Clever Eziogor"
+        "text": "Clever has a different view to things, making him able to have unique ideas to solving challenges or problems",
+        "user": "Ebenezer Ifezulike"
       }
     ]
   }
