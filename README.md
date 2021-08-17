@@ -2,7 +2,7 @@
 
 [CLEVER React JS Portfolio]
 
-### <a href="cleveromo.tech">LIVE DEMO</a>
+### <a href="https://cleveromo.tech/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
