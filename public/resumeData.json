@@ -41,6 +41,11 @@
         "name": "github",
         "url": "https://github.com/cleverom",
         "className": "fa fa-github"
+      },
+      {
+        "name": "ZURI",
+        "url": "https://internship.zuri.team/",
+        "className": "https://internship.zuri.team/static/media/logo.36d2d48a.svg"
       }
     ]
   },
@@ -56,9 +61,15 @@
     ],
     "work": [
       {
+        "company": "WAYAGRAM",
+        "title": "Software Engineer",
+        "years": "APRIL 2021 - Present",
+        "description": "A member of a  team that developed admin dashboard platform.. Built projects with React.js, MaterialUI, Redux, and Javascript.. Experience writing unit and integration test using Jest, SuperTest, cypress etc.. Performed software testing to uncover bugs and troubleshoot issues prior to application launch.. I Integrated work tools such as slack/Github, slack, Jira which forms the main part of our agile process.. Introduced agile methodologies and effective development best practices to division to enhance product development."
+      },
+      {
         "company": "TECKLINK CORPORATIONS",
         "title": "Software Engineer",
-        "years": "March 2021 - Present",
+        "years": "March 2021 - APRIL 2021",
         "description": "A member of the frontend  team developing web solutions for TeckLink.. Built reusable react components and styled with Bootstrap and materialUI.. Managed state and HTTP requests with Redux.. Exposure to Agile methodologies.. Exposure to working in remote conditions.. Integrate data from various back-end services and databases.. Cooperate with web designers to match visual design intent Gather and refine specifications and requirements based on technical needs."
       },
       {
