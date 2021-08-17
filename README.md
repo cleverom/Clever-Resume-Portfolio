@@ -1,6 +1,6 @@
 # CLEVER React JS Resume Starter Pack and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "CLEVER React JS Portfolio Stater Pack ")
+![CLEVER React JS Portfolio]
 
 ### <a href="cleveromo.tech">LIVE DEMO</a>
 
