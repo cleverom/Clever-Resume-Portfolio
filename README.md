@@ -1,6 +1,6 @@
 # CLEVER React JS Resume Starter Pack and Digital Portfolio
 
-![CLEVER React JS Portfolio]
+[CLEVER React JS Portfolio]
 
 ### <a href="cleveromo.tech">LIVE DEMO</a>
 
