@@ -1,4 +1,4 @@
-# CLEVER React JS Resume Starter Pack and Digital Portfolio
+# CLEVER React JS Resume and Digital Portfolio
 
 [CLEVER React JS Portfolio]
 
