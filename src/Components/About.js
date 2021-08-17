@@ -1,4 +1,5 @@
 import React from "react";
+import logo from '../images/ZURI.svg'
 
 const About = ({ data }) => {
   if (data) {
@@ -43,6 +44,7 @@ const About = ({ data }) => {
                 <span>{phone}</span>
                 <br />
                 <span>{email}</span>
+                <img src={logo} alt="images" />
               </p>
             </div>
             <div className="columns download">
