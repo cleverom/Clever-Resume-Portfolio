@@ -2,7 +2,7 @@
 
 ![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "CLEVER React JS Portfolio Stater Pack ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="cleveromo.tech">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
